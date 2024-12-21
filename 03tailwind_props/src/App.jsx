@@ -16,6 +16,7 @@ function App() {
     
     <Card  username="Sumit B" role="lead" />
     <Card  username="hitesh" />
+    <Card  username="hitesh" />
     </>
   )
 }
