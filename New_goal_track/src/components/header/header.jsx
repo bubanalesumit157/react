@@ -89,7 +89,7 @@ export default function Header() {
                                         
                                         }
                                     >
-                                    Course Recommendation
+                                    Course
 
                                     </NavLink>
 

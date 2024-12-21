@@ -46,7 +46,7 @@ const router = createBrowserRouter(
       <Route path='contact' element={<Contact />}  />  
       <Route path='user/:userid' element={<User />}  />  
       <Route path='todo' element={<App />}  />  
-      <Route path='course' element={<CourseRecommendation />}  />  
+      <Route path='courcerecommend' element={<CourseRecommendation />}  />  
       <Route 
       loader = { githubInfoLoader}
       path='github'
